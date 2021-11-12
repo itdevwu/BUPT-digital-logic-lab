@@ -16,6 +16,6 @@
 
 ## 版权
 
-Copyright 2021 [Zhenglong WU (itdevwu)](https://www.itdevwu.com).
+Copyright © 2021 [Zhenglong WU (itdevwu)](https://www.itdevwu.com).
 
 [MIT](./LICENSE) licensed.
